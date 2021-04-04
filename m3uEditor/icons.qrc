@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/circle.png</file>
+        <file>icons/down.png</file>
+        <file>icons/download.png</file>
+        <file>icons/facebook.png</file>
+        <file>icons/globe.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/play.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/power.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/trash.png</file>
+        <file>icons/twitter.png</file>
+        <file>icons/up.png</file>
+        <file>icons/file-plus.png</file>
+        <file>icons/update.png</file>
+    </qresource>
+</RCC>
